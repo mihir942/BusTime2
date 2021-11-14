@@ -10,4 +10,14 @@
         android:fontWeight="700" 
         android:fontStyle="normal"/>
 
+    <font
+        android:font="@font/inter_light"
+        android:fontWeight="300"
+        android:fontStyle="normal"/>
+
+    <font
+        android:font="@font/inter_semibold"
+        android:fontWeight="600"
+        android:fontStyle="normal"/>
+
 </font-family>
